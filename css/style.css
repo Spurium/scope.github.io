@@ -409,6 +409,7 @@ label{
 }
 .box__img-s {
 	width: 90px;
+    height: 90px;
 }
 .box__img-m {
 	width: 170px;
@@ -502,6 +503,7 @@ label{
 }
 .box__img-s {
 	width: 110px;
+    height: 115px;
 	margin-left: -5px;
 }
 .box__img-b {
