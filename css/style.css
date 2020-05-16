@@ -490,6 +490,7 @@ label{
  }
 .main-header__slogan {
 	font-size: 5rem;
+    width: 100%;
     margin: 130px auto;
 }
 
