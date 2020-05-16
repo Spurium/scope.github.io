@@ -85,7 +85,7 @@ label{
 .menu-burger__block{
     display: block;
     position: absolute;
-    width: 250px;
+    width: 240px;
     bottom: -15px;
     right: 0;
     transform: translateY(100%);
@@ -98,7 +98,7 @@ label{
 .block__link{
     display: block;
     width: 100%;
-    line-height: 20px;
+    line-height: 22px;
     padding: 10px;
     color: white;
     text-decoration: none;
@@ -365,7 +365,7 @@ label{
 
   }
    .main-header,.page,.main-footer {
- 	width: 780px;
+ 	width: 785px;
  	margin: 0;
  }
 
@@ -376,7 +376,7 @@ label{
 	height: 497px;
 }
  .main-header__img{
- 	left: -10%;
+ 	left: -15%;
  }
 
  .main-header__slogan{
