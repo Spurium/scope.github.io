@@ -490,7 +490,7 @@ label{
  }
 .main-header__slogan {
 	font-size: 5rem;
-	margin-left: -30px;
+    margin: 130px auto;
 }
 
 .box__text,.box__text-italic,.box__text-b {
