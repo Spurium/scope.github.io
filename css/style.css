@@ -500,9 +500,9 @@ label{
 	margin-left: -120px;
 }
 .box__img-m {
-	width: 180px;
+	width: 210px;
     height: 200px;
-	margin-left: -30px;
+	margin-left: -50px;
 }
 .box__img-s {
 	width: 110px;
@@ -510,8 +510,8 @@ label{
 	margin-left: -5px;
 }
 .box__img-b {
-	width: 200px;
-	margin-left: -40px;
+	width: 220px;
+	margin-left: -50px;
 
 }
 .info-gray__text-blue,.info-gray__text-bold,.info__text-bold,.info__text-blue {
